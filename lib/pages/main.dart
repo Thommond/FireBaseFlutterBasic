@@ -3,6 +3,7 @@ import 'babies.dart';
 
 void main() {
   runApp(MaterialApp(
+    title: 'Baby Names',
     home: Babies(),
   ));
 }

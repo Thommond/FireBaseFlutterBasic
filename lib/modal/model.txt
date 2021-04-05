@@ -1,0 +1,7 @@
+final dummySnapshot = [
+    {"name": "filip", "votes": 15},
+    {"name": 'abraham", "votes": 14},
+    {"name": "richard", "votes": 11},
+    {"name": "Ike", "votes": 10},
+    {"name": "Justin", "votes": 1}
+]
